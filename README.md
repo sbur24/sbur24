@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Sam. 🌱 I’m currently learning how to use Python, C, and Github in AER E 361.
 <!--
 **sbur24/sbur24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
